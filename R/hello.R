@@ -14,5 +14,9 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, Lion!")
+  library(waffle)
+  parts <- c(80, 30, 20, 10)
+  chart <- waffle(parts, rows=8)
+  print(chart)
+
 }

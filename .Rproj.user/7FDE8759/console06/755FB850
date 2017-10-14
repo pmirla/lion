@@ -1,0 +1,4 @@
+]0;/home/rstudio/lion]0;rstudio@opencpu: ~/lionrstudio@opencpu:~/lion$ [K]0;rstudio@opencpu: ~/lionrstudio@opencpu:~/lion$ pwd
+/home/rstudio/lion
+]0;/home/rstudio/lion]0;rstudio@opencpu: ~/lionrstudio@opencpu:~/lion$ git add .
+]0;/home/rstudio/lion]0;rstudio@opencpu: ~/lionrstudio@opencpu:~/lion$ git commit -am "added waffle"
